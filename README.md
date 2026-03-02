@@ -1,16 +1,28 @@
-# myapp
+## Negocio: Electronicos Electro
+##  Oscar Javier Martinez Gomez 6J
 
-A new Flutter project.
+## mi prompt
+quiero 3 pantallas con que son estas pero con ese mismo diseño, quiero que me uses el negocio electro que ya tenemos aquii , solo que aplicalo en estas pantallas y obviamente que sean interactivas para que una dirija a otra y asi como teniamos en este codigo ,bueno estas son las indicaciones : Navegación entre 3 paginas rutas nombradas en main() exclusivamente
 
-## Getting Started
+Crear carpeta dentro de lib llamada mispantallas.
 
-This project is a starting point for a Flutter application.
+En cada pantalla appbar diferentes texto, diferente color fondo, con 2 iconos de actions.
 
-A few resources to get you started if this is your first Flutter project:
+En la pantalla inicial tu nombre y un apellido y grupo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Crear los nombres de los archivos  (3 en total) archivos (Inicio.dart, pantalla2 y pantalla3)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Según el diseno que se te asigno de acuerdo a tu numero de lista,aplicarlo a tu negocio debe apegarse al diseno que te toco.
+
+Las imágenes desde tu repositorio mis imágenes de flutter. github urls raw......
+
+Colores y buena distribución (debe ser atractivo visual). mi nombre es Oscar Martinez y soy de 6J ,por si acaso . recuerda como tiene que ser las pantallas en funcion de la imagen que mande
+
+
+## Web
+<img width="378" height="806" alt="image" src="https://github.com/user-attachments/assets/42e8dd49-8279-494a-8b39-85329530f968" />
+<img width="384" height="789" alt="image" src="https://github.com/user-attachments/assets/6261ab96-df03-4198-911d-ad3b0e8db17e" />
+<img width="385" height="794" alt="image" src="https://github.com/user-attachments/assets/c18d936c-4ef6-4d6e-a935-2f7f0e728b9a" />
+
+
+
